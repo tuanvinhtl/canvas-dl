@@ -1,0 +1,17 @@
+{
+  "name": "canvas",
+  "authors": [
+    "Tuan Vinh <vinh.nguyentuan@dallmeier.com>"
+  ],
+  "description": "this is plubgin canvas",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
